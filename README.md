@@ -3,6 +3,13 @@
 ## Overview 🚀
 This project aims to detect fraudulent credit card transactions using machine learning techniques. The main objective is to classify transactions as either fraudulent or legitimate, providing insights into the potential financial impact of fraud.
 
+
+## Why is this project relevant?
+🌐 Real-world Impact : An efficient fraud detection system prevents financial losses and protects consumers from identity theft.
+
+
+## Model 🤖
+A Random Forest classifier is employed to learn from the preprocessed dataset. The model is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 ## Dataset 💾
 The dataset contains anonymized credit card transactions from September 2013, recorded by European cardholders. With 284,807 transactions and 492 confirmed frauds, the data is highly imbalanced (frauds represent only 0.172% of all transactions).
 
@@ -13,11 +20,6 @@ It includes numerical features resulting from a PCA transformation, except for t
 
 You can access the original dataset here: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
-## Why is this project relevant?
-🌐 Real-world Impact : An efficient fraud detection system prevents financial losses and protects consumers from identity theft.
-
-## Model 🤖
-A Random Forest classifier is employed to learn from the preprocessed dataset. The model is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
 ## Results 📈
 - **Accuracy**: 95%
