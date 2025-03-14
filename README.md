@@ -13,6 +13,9 @@ It includes numerical features resulting from a PCA transformation, except for t
 
 You can access the original dataset here: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
+## Why is this project relevant?
+🌐 Real-world Impact : An efficient fraud detection system prevents financial losses and protects consumers from identity theft.
+
 ## Model 🤖
 A Random Forest classifier is employed to learn from the preprocessed dataset. The model is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
@@ -21,6 +24,8 @@ A Random Forest classifier is employed to learn from the preprocessed dataset. T
 - **Precision**: 92%
 - **Recall**: 90%
 - **F1-score**: 91%
+
+📄 For practical visualization of the results, including the outputs of the code, please refer to the PDF file: pdf_fraud-detection.pdf.
 
 ## Financial Impact 💰
 For simulation purposes, an average fraudulent transaction value of **€500** was assume.  
@@ -66,7 +71,7 @@ Credit card fraud affects millions worldwide, leading to significant financial l
 - **Advanced Techniques:** Explore deep learning and other sophisticated models.
 - **Optimization:** Fine-tune hyperparameters for even better performance.
 - **Feature Engineering:** Develop new features to enhance predictive accuracy.
-- **Integration:** Build APIs and dashboards for real-time monitoring and reporting.
+- **Integration:** Incorporate MySQL for data storage and querying, and develop APIs and dashboards for real-time monitoring.
 
 ## Contributions 🙌
 Contributions, feedback, and suggestions are highly welcome! Feel free to open issues or submit pull requests.
