@@ -88,5 +88,5 @@ All suggestions to improve this project are welcome. Feel free to open issues or
 ## Note
 I will spare no effort to keep this documentation updated as new features and improvements are implemented. This document is a living reference that reflects the current state of the project and the lessons learned during its development.
 
-## ⚠️
+###
 If you work in Data Science or are interested in the subject, I would be happy to hear your suggestions or feedback!
