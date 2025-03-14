@@ -5,7 +5,7 @@
 #*.pkl
 
 # Ignore CSV files
-#*.csv
+creditcard.csv
 
 # Ignore other unnecessary files
 *.log
