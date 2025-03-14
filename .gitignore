@@ -2,10 +2,10 @@
 .ipynb_checkpoints/
 
 # Ignore model files
-*.pkl
+#*.pkl
 
 # Ignore CSV files
-*.csv
+#*.csv
 
 # Ignore other unnecessary files
 *.log
