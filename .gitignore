@@ -1,0 +1,20 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files
+*.pkl
+
+# Ignore CSV files
+*.csv
+
+# Ignore other unnecessary files
+*.log
+*.tmp
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
